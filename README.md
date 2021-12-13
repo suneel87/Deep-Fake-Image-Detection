@@ -12,7 +12,7 @@ The [DeepFake Image Detection Dataset](https://www.kaggle.com/ciplab/real-and-fa
 
 ## Steps to Run the GUI
 1. Use the notebook _DeepFake_Image.ipynb_ on Colab (as this needs GPU runtime for execution)
-2. Create a folder called saved_models on your Google Drive
+2. Create a folder called _saved_models_ on your Google Drive
 3. Run the notebook (without the GUI cell) with any CFFN model of your choice, as many times as you'd like (NOTE:The different model names and syntax are in the Siamese Network Cell)
 4. Ensure to save the models after training
 5. Load any one of the trained models while training the GUI cell. 
